@@ -1,0 +1,11 @@
+[ Raw Notes ]
+      ↓
+[ Cleaning ]
+      ↓
+[ Semantic Tagging ]
+      ↓
+[ LLM Structured Generation ]
+      ↓
+[ Human Validation ]
+      ↓
+[ Medical Record ]

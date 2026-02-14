@@ -1,0 +1,14 @@
+Observation:
+Patient presents fatigue and reduced verbal interaction.
+
+Nutrition:
+Meal partially consumed.
+
+Activities:
+Refuses group activity.
+
+Health:
+Blood pressure normal.
+
+Treatment:
+Medication taken independently.
